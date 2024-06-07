@@ -426,7 +426,7 @@ How to create a transcription for your video?
 
 ALT: A dark mode view of Clipchamp video editor while editing captions.
 
-Sourse: Clipchamp blog
+Source: Clipchamp
 
 ## List of resources
 
