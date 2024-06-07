@@ -28,7 +28,7 @@ Do you want to make video content that everyone can enjoy?
 
 This beginner-friendly guide introduces you to speech-to-text and text-to-speech technologies that are valuable for creating accessible videos.
 
-## Accessibility first
+## 1. Accessibility first
 
 ### Digital accessibility
 
@@ -73,7 +73,7 @@ Without knowing what people exactly must overcome on a daily basis, or ad hoc, y
 There are several dimensions to consider when talking about human health and functionality:
 
 - **Physical strength** – depends on the health and capabilities of the body. The user's performance depends on muscular strength, flexibility, and body composition.
-- **Cognitive performance** – ****depends on the functioning of the brain. It includes mental acuity, memory, learning ability, and the ability to solve problems and make decisions.
+- **Cognitive performance** – depends on the functioning of the brain. It includes mental acuity, memory, learning ability, and the ability to solve problems and make decisions.
 - **Emotional capacity** – refers to the management of emotions and mental resilience. It includes the ability to express emotions healthily and effectively.
 - **Social skills** – include the ability to interact with others. It's about communication skills, empathy, and the ability to work cooperatively with others.
 
@@ -102,7 +102,7 @@ Therefore, prioritizing accessibility from the project kick-off is a smart strat
 
 If you don't take care of accessibility now, it will generate costs when you are forced to address users' complaints in the future.
 
-WCAG
+## 2. WCAG
 
 ### Perceivable time-based media
 
@@ -165,7 +165,7 @@ To offer accessible videos, provide the following:
 2. **Dual communication**: Make sure the main message is understood through both the video itself and the written description. People who can't hear or see the video should still be able to grasp the content.
 3. **Alternative text (Alt)**: Describe the element in a way that conveys useful information to the user. Provide a brief and accurate text for elements, such as graphics, diagrams, GIFs, screenshots, and images. It is worth emphasizing that the Alt text is important in the context of film description, not the films themselves. Alt text is displayed on the page if the image fails to load. Alt text is also indexed by search engines.
 
-## Speech-to-text and text-to-speech
+## 3. Speech-to-text and text-to-speech
 
 When you embrace the power of converting speech and text, you support assistive technology, language accessibility, individuals experiencing disabilities, and people with temporary or situational lack of access to content. You ensure a more accessible, inclusive, and enjoyable video experience for everyone.
 
@@ -299,7 +299,7 @@ Choose a tool that best suits your needs and budget in the long run.
 
 - [**Speechelo**](https://speechelo.com/) – instantly transforms any text into a human-sounding voiceover with only 3 clicks! Thera are no monthly fees – one time investment.
 
-## Making accessible videos
+## 4. Making accessible videos
 
 ### Guidelines
 
