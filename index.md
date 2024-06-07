@@ -1,6 +1,5 @@
 ---
 title: Breaking Barriers
-description: Guide for video creators
 layout: default
 nav_order: 1
 
