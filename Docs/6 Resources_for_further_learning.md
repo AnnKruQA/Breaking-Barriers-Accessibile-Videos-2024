@@ -2,7 +2,7 @@ title: Resources for further learning
 layout: default
 nav_order: 7
 
-## 6. Resources for further learning
+## Resources for further learning
 
 ### Accessibility
 1. [W3Cx: Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility), edx
