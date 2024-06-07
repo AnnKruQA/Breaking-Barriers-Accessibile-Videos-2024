@@ -1,4 +1,9 @@
-# 4. Making accessible videos
+title: 4 Making accessible videos 
+layout: default
+nav_order: 5
+has_children: true
 
-Owner: Anna Krukowska
-Created time: June 6, 2024 10:07 PM
+
+## 4. Making accessible videos
+
+Let's make an accessible video together!
