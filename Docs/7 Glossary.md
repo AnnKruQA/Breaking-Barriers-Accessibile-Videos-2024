@@ -1,9 +1,9 @@
-title: 7. Glossary 
+title: Glossary 
 layout: default 
-nav_order: 9
+nav_order: 8
 
 
-## 7. Glossary
+## Glossary
 
 
 ### A
