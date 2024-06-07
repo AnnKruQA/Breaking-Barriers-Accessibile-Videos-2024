@@ -2,7 +2,7 @@ title: List of resources
 layout: default
 nav_order: 6
 
-## 5. List of resource
+## List of resources
 
 ### Websites
 
