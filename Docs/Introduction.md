@@ -1,5 +1,5 @@
 title: Introduction
-layout: default
+layout: home
 nav_order: 2
 
 
