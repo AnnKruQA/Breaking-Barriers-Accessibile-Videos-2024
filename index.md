@@ -22,7 +22,7 @@ nav_order: 1
   - [3.2 STT best practices](#32-stt-best-practices)
   - [3.3 Text-to-speech technology](#33-text-to-speech-technology)
   - [3.4 TTS best practices](#34-tts-best-practices)
-  - [**3.5 Tools**](#35-tools)
+  - [3.5 Tools](#35-tools)
 - [4. Making accessible videos](#4-making-accessible-videos)
   - [4.1 Guidelines](#41-guidelines)
   - [4.2 A step-by-step guide for beginners](#42-a-step-by-step-guide-for-beginners)
