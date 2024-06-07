@@ -1,7 +1,7 @@
-title: 2 WCAG 
-layout: default 
-has_children: true 
+title: 2. WCAG 
+layout: default
 nav_order: 4
+has_children: true 
 
 ## 2. WCAG
 
