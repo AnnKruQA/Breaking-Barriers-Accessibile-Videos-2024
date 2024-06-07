@@ -1,10 +1,10 @@
-title: 1. Accessibility first 
+title: Accessibility first 
 layout: default
-nav_order: 3
+nav_order: 2
 has_children: true
 
 
-## 1. Accessibility first
+## Accessibility first
 
 Let's discover the benefits of accessibility first mindset.
 
