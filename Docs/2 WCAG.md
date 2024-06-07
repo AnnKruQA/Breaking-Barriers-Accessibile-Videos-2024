@@ -1,4 +1,4 @@
-title: WCAG 
+title: 2 WCAG 
 layout: default 
 has_children: true 
 nav_order: 4
