@@ -1,4 +1,4 @@
-title: 3 Speech-to-text and text-to-speech 
+title: 3. Speech-to-text and text-to-speech 
 layout: default 
 nav_order: 5
 has_children: true
