@@ -1,4 +1,4 @@
-title: 5 List of resources 
+title: 5. List of resources 
 layout: default
 nav_order:7
 
