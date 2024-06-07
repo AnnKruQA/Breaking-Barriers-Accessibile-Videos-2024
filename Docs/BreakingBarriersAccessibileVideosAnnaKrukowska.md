@@ -4,7 +4,7 @@ Owner: Anna Krukowska
 Tags: Policies
 Created time: June 6, 2024 8:08 PM
 
-**Breaking barriers: How text-to-speech and speech-to-text technologies can help you create accessible videos**
+# Breaking barriers: How text-to-speech and speech-to-text technologies can help you create accessible videos**
 
 ## Introduction
 
