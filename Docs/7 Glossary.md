@@ -1,7 +1,6 @@
 title: 7. Glossary 
 layout: default 
-nav_order: 8
-has_children: false
+nav_order: 9
 
 
 ## 7. Glossary
