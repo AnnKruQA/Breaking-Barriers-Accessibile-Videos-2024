@@ -1,11 +1,12 @@
 ---
 title: Breaking Barriers Accessible Videos
+description: guide for video creators
 layout: default
 nav_order: 2
 has children: true
 ---
 
-# Breaking barriers: How text-to-speech and speech-to-text technologies can help you create accessible videos.
+# How text-to-speech and speech-to-text technologies can help you create accessible videos.
 ***
 Table of contents <!-- omit in toc -->
 
