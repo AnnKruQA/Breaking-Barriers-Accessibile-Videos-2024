@@ -9,7 +9,7 @@ has children: true
 ***
 Table of contents <!-- omit in toc -->
 
-- [Introduction](#introduction)
+- [Introduction](introduction)
 - [1. Accessibility first](1-accessibility-first)
   - [1.1 Digital accessibility](1.1-digital-accessibility)
   - [1.2 Benefits of an inclusive approach](1.2-benefits-of-an-inclusive-approach)
