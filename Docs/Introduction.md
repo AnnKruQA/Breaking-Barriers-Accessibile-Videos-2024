@@ -1,5 +1,5 @@
-title: Introduction l
-ayout: default
+title: Introduction
+layout: default
 nav_order: 2
 
 
