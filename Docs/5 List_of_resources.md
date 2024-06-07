@@ -1,7 +1,8 @@
-# 5. List of resources
+title: 5 List of resources 
+layout: default
+nav_order:7
 
-Owner: Anna Krukowska
-Created time: June 6, 2024 10:07 PM
+## 5. List of resource
 
 **Websites**
 
