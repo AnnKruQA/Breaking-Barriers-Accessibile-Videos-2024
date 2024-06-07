@@ -1,7 +1,7 @@
 ---
 title: Breaking Barriers Accessible Videos
 layout: default
-nav_order: 1
+nav_order: 2
 has children: true
 ---
 
