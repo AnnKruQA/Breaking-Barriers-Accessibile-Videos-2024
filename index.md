@@ -1,6 +1,6 @@
 ---
-title: Breaking Barriers Accessible Videos
-description: guide for video creators
+title: Breaking Barriers
+description: Guide for video creators
 layout: default
 nav_order: 1
 
