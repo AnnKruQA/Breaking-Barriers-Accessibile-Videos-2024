@@ -33,7 +33,7 @@ This is an example of audio description and subtitles.
 <img src="../Images/Netflix_audio_and_subtitles_settings.png" alt="A black box contains names of different languages. These are Netflix settings for audio and subtitles. The box contains English selected as original audio, available audio description in English, and synchronized text in English." width="85%">
 
 
-You can listen to [Audio Description Examples](https://www.youtube.com/watch?v=Z7jaVpy-1N0) by Heather Foster.
+You can listen to <a href="https://www.youtube.com/watch?v=Z7jaVpy-1N0" target="_blank">Audio Description Examples</a> by Heather Foster.
 
 <img src="../Images/Video_with_examples_of_audio_description.png" alt="A small girl and a dog are looking outside the window during the day" width="85%">
 
