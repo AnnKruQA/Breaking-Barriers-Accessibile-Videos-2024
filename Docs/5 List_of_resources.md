@@ -1,6 +1,8 @@
+---
 title: List of resources 
 layout: default
 nav_order: 6
+---
 
 ## List of resources
 
