@@ -15,9 +15,7 @@ Picture yourself in a world with video-only content without any text or audio.
 - Imagine scrolling your favourite social media platform. There is a playlist of videos with no titles, subtitles, or comments. How can you choose which one is worth your attention and interaction?
 - Imagine browsing through your favourite smartphone blog for the latest reviews and finding no text *—* just muted advertisements. Would you be willing to purchase a product without first hearing or reading about how its new features might improve or complicate people's lives?
 
-![YouTube_playlist_without_text.png](Breaking%20Barriers%20-%20Accessibile%20Videos%20a9fa1c1504ac432eae20311758c84913/YouTube_playlist_without_text.png)
-
-<img src="../Images/YouTube_playlist_without_text.png" alt="A playlist of three videos on YouTube platform with blurred text" width="60%">
+<img src="Images/YouTube_playlist_without_text.png" alt="A playlist of three videos on YouTube platform with blurred text" width="60%">
 
 ALT: A playlist of three videos on YouTube platform with blurred text.
 
