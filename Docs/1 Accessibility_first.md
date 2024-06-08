@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-## Accessibility first
+# Accessibility first
 
 Let's discover the benefits of accessibility first mindset.
 
