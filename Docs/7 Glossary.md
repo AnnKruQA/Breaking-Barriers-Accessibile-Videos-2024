@@ -1,7 +1,8 @@
+---
 title: Glossary 
 layout: default 
 nav_order: 8
-
+---
 
 ## Glossary
 
@@ -23,12 +24,12 @@ nav_order: 8
 - **Screen Reader** – a software application that translates on-screen text and information into synthesized speech or Braille output for users who are blind or visually impaired. Screen readers are a type of assistive technology.
 - **Sensory characteristics** – a WCAG principle that discourages relying solely on sensory information, such as sound and color, to convey information.
 - **SEO** (Search Engine Optimization) – the process of improving the ranking of a web page or website in search engine results pages. Captions and transcripts can be beneficial for SEO.
-- **Speech-to-Text** (STT)– the conversion of spoken language into text.
+- **Speech-to-Text** (STT) – the conversion of spoken language into text.
 - **Subtitles** – a translated version of the spoken content in a video, displayed for non-native speakers.
 
 ### T
 
-- **Text-to-Speech** (TTS) – the conversion of written text into spoken audio.
+- **Text-to-Speech** (TTS) – the conversion of written text into spoken audio.
 - **Time-based media** – pre-recorded and live audio and video digital content.
 - **Transcription** – a text-based alternative for audio content.
 
