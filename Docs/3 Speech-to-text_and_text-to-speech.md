@@ -19,9 +19,9 @@ When you embrace the power of converting speech and text, you support assistive 
 2. **Subtitles** are created for non-native speakers and an international audience by translating spoken content into another language. Your video can reach and engage people worldwide. Subtitles help viewers understand accents or dialects they may not be familiar with, improving their connection with your content.
 3. **Transcripts** are like a written map of your spoken content and provide a full dialogue in text form. They support screen readers and other assistive devices, making your content accessible not only to those with visual impairments. They boost your video’s searchability online, helping your content reach a wider audience and gain more visibility. Transcripts offer a valuable resource for life-long learners to study, review, and engage with your content.
 
-This is an example of transcription and captions in English for a lesson from the <a href="https://www.linkedin.com/learning/creating-accessible-and-inclusive-video" target="_blank">Creating Accessible and Inclusive Video course</a> on LinkedIn.
+This is an example of transcription and captions in English for a lesson from the <a href="https://www.linkedin.com/learning/creating-accessible-and-inclusive-video">Creating Accessible and Inclusive Video course</a> on LinkedIn.
 
-<img src="../Images/Video_lesson_with_transcription_captions_subtitles.png" alt="There are a huge computer screen in the center and a small box with a sentence in English below. Underneath there is a white box with a long text in English. On the right, there is a bigger box of languages where English is selected. " width="85%">
+<img src="../Images/Video_lesson_with_transcription_captions_subtitles.png" alt="There are a huge computer screen in the center and a small box with a sentence in English below. Underneath there is a white box with a long text in English. On the right, there is a bigger box of languages where English is selected. " width="100%">
 
 
 ## You can transform visual elements into spoken language to provide valuable context for your users.
@@ -30,12 +30,12 @@ This is an example of transcription and captions in English for a lesson from th
 
 This is an example of audio description and subtitles.
 
-<img src="../Images/Netflix_audio_and_subtitles_settings.png" alt="A black box contains names of different languages. These are Netflix settings for audio and subtitles. The box contains English selected as original audio, available audio description in English, and synchronized text in English." width="85%">
+<img src="../Images/Netflix_audio_and_subtitles_settings.png" alt="A black box contains names of different languages. These are Netflix settings for audio and subtitles. The box contains English selected as original audio, available audio description in English, and synchronized text in English." width="100%">
 
 Source: YouTube
 
-You can listen to <a href="https://www.youtube.com/watch?v=Z7jaVpy-1N0" target="_blank">Audio Description Examples</a> by Heather Foster.
+You can listen to <a href="https://www.youtube.com/watch?v=Z7jaVpy-1N0">Audio Description Examples</a> by Heather Foster.
 
-<img src="../Images/Video_with_examples_of_audio_description.png" alt="A small girl and a dog are looking outside the window during the day" width="85%">
+<img src="../Images/Video_with_examples_of_audio_description.png" alt="A small girl and a dog are looking outside the window during the day" width="100%">
 
 Source: YouTube
