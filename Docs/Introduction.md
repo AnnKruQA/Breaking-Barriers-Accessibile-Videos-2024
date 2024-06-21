@@ -3,7 +3,7 @@ layout: home
 nav_order: 2
 
 
-## Introduction
+# Introduction
 
 Picture yourself in a world with video-only content without any text or audio.
 
@@ -14,6 +14,7 @@ Picture yourself in a world with video-only content without any text or audio.
 
 <img src="../Images/YouTube_playlist_without_text.png" alt="A playlist of three videos on YouTube platform with blurred text" width="60%">
 
+Source: YouTube
 
 The human world is mostly shaped by words. It is beneficial to ensure that the spoken language is provided and the written text is correctly displayed.
 
